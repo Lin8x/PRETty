@@ -6,11 +6,13 @@
  
  ------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/BusesCanFly/PRETty/blob/master/screenshot.png "Who doesn't love ASCII art?")
+<p align="center"> <img src="https://github.com/BusesCanFly/PRETty/blob/master/screenshot.png"> 
+	
+Who doesn't love ASCII art?")
 
 PRETty is useful when a large number of printers are present on a network. Instead of scanning, logging, and manually running PRET againt each individual printer, PRETty will automatically discover and run choosen PRET payloads against all printers on the target network.
 
-Additionally, PRETty can be used to automate command/payload delivery to any given list of printers (See the "Lists" section)
+Additionally, PRETty can be used to automate command/payload delivery to any given list of printers (See the "Lists" section)</p>
 
 ------------------------------------------------------------------------------------------------------
 
