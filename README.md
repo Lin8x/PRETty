@@ -6,7 +6,7 @@
  
  ------------------------------------------------------------------------------------------------------
 
-<p align="center"> <img src="https://github.com/BusesCanFly/PRETty/blob/master/screenshot.png"> 
+<p align="center"> <img src="https://github.com/BusesCanFly/PRETty/blob/master/screenshot.png" height="50%" width="50%"> 
 	
 Who doesn't love ASCII art?")
 
