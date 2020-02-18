@@ -12,18 +12,18 @@
 
 ------------------------------------------------------------------------------------------------------
 
-## GUIDE:
+## GUIDE
 
 ### Installation
 One line w/ [PRET](https://github.com/RUB-NDS/PRET) installation: `sudo apt -y install imagemagick ghostscript arp-scan tshark && sudo pip install -U argparse termcolor colorama pysnmp && git clone https://github.com/RUB-NDS/PRET && cd PRET && git clone https://github.com/BusesCanFly/PRETty && cd PRETty && chmod +x PRETty.py`
 
-### Lists
+### How Lists Work
 * PRETty automatically scans the LAN for HP/Brother/Kyocera printers and creates an IP list for itself
 	* However, you can place custom IP lists in `PRETty/IP/`
 * PRETty comes with pre-made command list files for PRET located in `PRETty/commands/`
 	* However, you can place additional command list files in `PRETty/commands/`
 	
-### Usage
+### Usage Of Tool
 * Run PRETty with `./PRETty.py` and follow the prompts :D
 * For more advanced users, run `./PRETty.py -h`
 	* `./PRETty.py --cli` enables CLI mode. (No user input required)
